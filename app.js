@@ -1,6 +1,6 @@
 const url = "https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-Cases.csv"
 
-(function() {
+
 
 
 function init(){
